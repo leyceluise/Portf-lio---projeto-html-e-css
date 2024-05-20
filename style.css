@@ -43,6 +43,7 @@
       .profissão { 
         color: #828282;
         font-size: 25px;
+        text-align: center;
        }
 
        .descrição { 
@@ -83,7 +84,7 @@ ul li { margin-top: 20px;
 
 }
 
-h3 { margin-left: -120px; }
+
 
 
         .título-seção
@@ -91,6 +92,7 @@ h3 { margin-left: -120px; }
           color: #d24d6c;
           font-size: 24px;
           margin-bottom: 100px;
+          margin-left: -120;
           }
 
           .título-seção2 { 
